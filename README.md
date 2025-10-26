@@ -1,1 +1,1 @@
-# https://cdn.jsdelivr.net/gh/IzukiNo/Images-CDN/assets/{path}
+# https://cdn.jsdelivr.net/gh/IzukiNo/Images-CDN/{path}/{path}
