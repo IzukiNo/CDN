@@ -1,1 +1,1 @@
-# https://cdn.jsdelivr.net/gh/IzukiNo/CDN/{path}/{path}
+# https://cdn.jsdelivr.net/gh/IzukiNo/cdn/{path}/{path}
